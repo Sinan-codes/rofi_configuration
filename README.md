@@ -17,7 +17,7 @@ A minimal, dark, transparent rofi launcher theme.
 
 ## Install
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Sinan-codes/rofi_configuration
 cp rofi-config/config.rasi ~/.config/rofi/config.rasi
 ```
 
