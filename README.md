@@ -11,7 +11,7 @@ A minimal, dark, transparent rofi launcher theme.
 - No scrollbar, clean single-column list
 
 ## Dependencies
-- [rofi](https://github.com/davatorium/rofi) (tested on X.X)
+- [rofi](https://github.com/davatorium/rofi) (tested on 1.7.5)
 - `JetBrainsMono Nerd Font`
 - `Papirus-Dark` icon theme
 
